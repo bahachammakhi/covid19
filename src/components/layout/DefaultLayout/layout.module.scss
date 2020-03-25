@@ -1,0 +1,32 @@
+.sidenav {
+  position: fixed;
+  top: 0;
+  background-color: rgb(255, 255, 255);
+  min-height: 100vh;
+  box-shadow: 5px 0px 5px 0px rgba(136, 136, 136, 0.75);
+  z-index: 5;
+}
+.boxshadow {
+  box-shadow: 5px 0px 5px 0px rgba(136, 136, 136, 0.75);
+}
+.contentside {
+  // max-height: 100vh;
+  overflow: hidden;
+  margin-left: 25%;
+  padding-left: 0.5%;
+}
+.wrapper {
+  // max-height: 100vh;
+  // overflow: hidden;
+}
+.title {
+  color: #1aacf0 !important;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 72px;
+  text-transform: uppercase;
+  height: 68px;
+  padding-left: 5%;
+  z-index: 2000;
+}

@@ -1,0 +1,45 @@
+.title {
+  color: #1eb7ff;
+  margin-top: 10% !important;
+  font-family: 'Raleway', sans-serif;
+  font-size: 62px;
+  font-weight: 800;
+  line-height: 72px;
+  margin: 0 0 24px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.signin {
+  text-align: center;
+}
+.paragraph {
+  text-align: center;
+}
+.label {
+  display: inline-block;
+}
+.custom-control-label {
+  position: relative;
+  margin-bottom: 0;
+  vertical-align: top;
+}
+.custom-control-input {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}
+input[type='checkbox'],
+input[type='radio'] {
+  box-sizing: border-box;
+  padding: 0;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #00a8f7;
+  border-color: #009fea;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #1eb7ff;
+  border-color: #1eb7ff;
+}
