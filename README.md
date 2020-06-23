@@ -87,9 +87,6 @@ covid19/
 
 Project is: stopped ( Problems with company working on Iot-Rings solution ) 
 
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
 ## Contact
 
 Created by [@bahachammakhi](https://www.bahachammakhi.tn/) - feel free to contact me!
